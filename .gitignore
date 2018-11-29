@@ -1,0 +1,3 @@
+*.o
+Build/build/test
+Source/.ycm_extra_conf.py
